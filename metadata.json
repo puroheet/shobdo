@@ -1,0 +1,7 @@
+{
+  "name": "SHOBDO - Next-Gen Bangla TTS",
+  "description": "A cinematic dark-mode text-to-voice platform for South Asian creators, featuring AI-powered Bangla and English synthesis with custom accents.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
